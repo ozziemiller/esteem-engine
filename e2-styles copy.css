@@ -1,0 +1,136 @@
+/* e2 styles */
+
+
+.e2-dashboard {
+  background-color: #1f4a8e;
+}
+
+.e2-dashboard-header {
+  width: 100%;
+  height: 64px;
+  background-color: #1f4a8e;
+  border-bottom: 1pt solid white;
+  margin: 0 auto;
+  color: white;
+  font-family: helvetica;
+}
+
+.e2-track-and-manage {
+  color: white;
+  font-size: 33px;
+  margin: 30px auto;
+  display: block;
+  width: 50%;
+}
+
+.e2-dashboard-panel-text {
+  width: 82%;
+  color: white;
+  margin: 20px auto;
+}
+
+.e2-dashboard-panel-background {
+  background-color: #1f4a8e;
+}
+
+.e2-panel2 {
+  width: 80%;
+  color: white;
+  margin: 20px auto;
+  height: 150px;
+  margin-bottom: -50px;
+}
+
+.e2-small-gauge-parent {
+  margin: 10px auto;
+  height: 170px;
+  max-width: 85%;">
+}
+
+.e2-small-gauge {
+  border: 1pt solid white;
+  width: 192px;
+  height: 120px;
+  border-radius: 5px;
+  margin: 8px;
+  display: inline;
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 6px;
+  font-size: 10pt;
+  font-family: helvetica;
+  background-color: #1f4a8e;
+}
+
+.e2-big-gauge {
+  border: 1pt solid white;
+  width: 280px;
+  height: 180px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  padding: 6px;
+  font-size: 10pt;
+  font-family: helvetica;
+}
+
+.e2-dashboard2-p {
+  margin: 10px auto;
+  width: 60%;
+  color: white;
+  font-family: helvetica-light;
+  font-size: 14px;"
+}
+
+.e2-cog-title {
+  margin: 10px auto;
+  width: 62%;
+  color: white;
+  font-family:
+  helvetica;
+  font-size: 20px;
+}
+
+.e2-cog-date {
+  list-style-type: none;
+  color: white;
+  padding: 5px;
+  font-size: 13px;"
+}
+
+.e2-cog-img {
+  list-style-type: none;
+  padding: 3px;
+}
+
+.e2-dashboard-footer {
+  height: 94px;
+  background: #0d2f66;
+  position: relative;
+  margin: 0 auto;
+}
+
+.e2-footer-parent {
+  margin: 0 auto;
+  width: 100%;
+padding: 5px;
+}
+
+.e2-footer-button{
+  background-color: blue;
+  color: white;
+  width: 180px;
+  height: 36px;
+  position: relative;
+  margin-top: 23px;"
+}
+
+.e2-footer-button-text {
+  margin-top: 8px;
+  text-align: center;
+  font-family: helvetica;
+  padding: 8px;
+}
+
+check 7
